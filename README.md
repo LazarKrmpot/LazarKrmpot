@@ -6,12 +6,14 @@ In my opinion, we all are in the learning phase, and we get better at it by teac
 
 My skills among the others:
 
-1) JavaScript 
-2) HTML
-3) CSS3 
-4) Sass
-5) jQuery 
-6) Git
+1) JavaScript
+2) React
+3) Angular
+4) HTML
+5) CSS3 
+6) Sass
+7) jQuery 
+8) Git
 
 LinkedIn:
 https://www.linkedin.com/in/lazar-krmpot-b60b07111/
