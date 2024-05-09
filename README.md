@@ -1,7 +1,7 @@
 [![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...]](https://raw.githubusercontent.com/majdimokhtar/github-images/main/newbannerjs.gif))
 <h1 align="center">Hi 👋, I'm Lazar Krmpot</h1>
 <h3 align="center">A passionate frontend developer from Serbia</h3>
-<iframe src="https://giphy.com/embed/xUA7bdpLxQhsSQdyog" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<img src="https://giphy.com/embed/xUA7bdpLxQhsSQdyog" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lazarkrmpot&label=Profile%20views&color=0e75b6&style=flat" alt="lazarkrmpot" /> </p>
 
