@@ -4,11 +4,6 @@
 <img align="right" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Alt text">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lazarkrmpot&label=Profile%20views&color=0e75b6&style=flat" alt="lazarkrmpot" /> </p>
-
-- 🌱 I’m currently learning **Vuejs and Node**
-
-- 💬 Ask me about **Frontend, Design**
-
 - 📫 How to reach me **krmpotlazar@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
